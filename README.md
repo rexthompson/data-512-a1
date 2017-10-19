@@ -7,7 +7,7 @@ For this assignment I retrieve, aggregate and visualize the number of monthly vi
 The final plot (shown below) is meant to mimic that shown here:
 https://wiki.communitydata.cc/upload/a/a8/PlotPageviewsEN_overlap.png
 
-![alt text](https://github.com/rexthompson/data-512-a1/en-wikipedia_traffic_200801-201709.png "Final Visualization")
+![alt text](https://github.com/rexthompson/data-512-a1/blob/master/en-wikipedia_traffic_200801-201709.png "Final Visualization")
 
 Aside from the relatively simple project workflow itself, the goal of the assignment was to allow me to demonstrate that I can follow best practices for open and reproducible research as discussed in class. As such, I intend this project to be fully reproducible: from data collection to data analysis, and every step along the way. I would certainly appreciate feedback if you ome across any shortcomings, or have any other suggestions, if you attempt to duplicate this analysis.
 
